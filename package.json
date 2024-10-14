@@ -2,9 +2,9 @@
   "name": "HANSA-BUG-SPAM",
   "version": "1.0.0",
   "description": "HANSA-BUG-SPAM",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node index.js"
   },
   "author": "HANSA-BUG-SPAM",
   "license": "MIT",
