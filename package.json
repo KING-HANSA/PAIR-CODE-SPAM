@@ -1,7 +1,7 @@
 {
-  "name": "PAEDULZ",
+  "name": "HANSA-BUG-SPAM",
   "version": "1.0.0",
-  "description": "PAEDULZ",
+  "description": "HANSA-BUG-SPAM",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
