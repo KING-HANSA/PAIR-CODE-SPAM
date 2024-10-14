@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node main.js"
   },
-  "author": "PAEDULZ",
+  "author": "HANSA-BUG-SPAM",
   "license": "MIT",
   "dependencies": {
     "@hapi/boom": "^10.0.1",
